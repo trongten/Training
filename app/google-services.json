@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264611170346",
+    "project_id": "ontap2-b6b3f",
+    "storage_bucket": "ontap2-b6b3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264611170346:android:24da96fd80b0606f899b53",
+        "android_client_info": {
+          "package_name": "com.firebase.ontap2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264611170346-lrar81kketl8vs2f2vnvuojef5f1qclg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6I1UtgUrp8u9bss9tlxP5QtQ7A_ANp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264611170346-lrar81kketl8vs2f2vnvuojef5f1qclg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
